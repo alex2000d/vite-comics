@@ -61,7 +61,7 @@ export default {
                 </div>
                 <div class="col-6 logo-container">
                     <div class="content">
-                        <img src="../src/assets/img/dc-logo-bg.png" class="logo" alt="">
+                        <img src="../src/assets/img/dc-logo-bg.png" class="logo">
                     </div>
                 </div>
             </div>
