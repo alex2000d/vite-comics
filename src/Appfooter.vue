@@ -18,7 +18,27 @@ export default {
             </div>
         </div>
     </div>
-   
+    <div class="bg-footer ">
+        <div class="container ">
+            <div class="row ">
+                <div class="col-6 ">
+                    <div class="content py-5">
+                        <button class="btn text-light">SIGN-UP NOW!</button>
+                    </div>
+                </div>
+                <div class="col-6 ">
+                    <div class="content py-5 d-flex justify-content-center">
+                        <h4 class="text-primary ">FOLLOW US</h4>
+                         <img src="../src/assets/img/footer-facebook.png">
+                         <img src="../src/assets/img/footer-twitter.png">
+                         <img src="../src/assets/img/footer-youtube.png">
+                         <img src="../src/assets/img/footer-pinterest.png">
+                         <img src="../src/assets/img/footer-periscope.png">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </template>
 
 <style lang="scss" scoped>
