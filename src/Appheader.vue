@@ -7,13 +7,13 @@ export default {
     <header>
         <div class="container">
             <div class="row">
-                <div class="col-12 col-md-4">
-                    <div class="p-3 ms-5 align-middle">
+                <div class="col-4">
+                    <div class="p-3 ms-5 align-middle logo-img">
                         <img src="../src/assets/img/dc-logo.png" />
                     </div>
                     
                 </div>
-                <div class="col-12 col-md-8">
+                <div class="col-8">
                     <ul class="list-unstyled d-flex mt-4 align-middle">
                         <li>characters</li>
                         <li class="active">comics</li>
@@ -31,8 +31,8 @@ export default {
         </div>
     </header>
 </template>
-<style lang="scss">
-img{
+<style lang="scss" scoped>
+.logo-img img{
     max-width: 80px; 
 }
    ul {
