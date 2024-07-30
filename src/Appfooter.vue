@@ -10,7 +10,7 @@ export default {
                 <div class="col-6 d-flex py-3">
                     <div class="list">
                         <div class="content">
-                            <h3 class="text-light">DC COMICS</h3>
+                            <h3 class="text-light me-4">DC COMICS</h3>
                             <ul class="text-secondary list-unstyled">
                                 <li>Characters</li>
                                 <li>Comics</li>
@@ -32,7 +32,7 @@ export default {
                     <div class="list">
                         <div class="content">
                             <h3 class="text-light">DC</h3>
-                            <ul class="text-secondary list-unstyled">
+                            <ul class="text-secondary list-unstyled me-3">
                                 <li>Terms Of Use</li>
                                 <li>Privacy policy(New)</li>
                                 <li>Ad Choices</li>
